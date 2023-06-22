@@ -9,8 +9,8 @@ Proje klonlandı.
 ```bash
 git clone https://github.com/cemcap-cs/kodluyoruzilkrepo.git
 
-![Alt text](<VScode Github Repo.jpg>)
 ```
+![Alt text](<VScode Github Repo.jpg>)
 
 ## Usage
 
